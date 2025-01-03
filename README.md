@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Osvaldo&pause=1000&color=9E1ECD&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Villarindo.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7030C3&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Jo%C3%A3o+Villarindo." alt="Typing SVG" /></a>
 
 **`Estudante de Programação`**
 
