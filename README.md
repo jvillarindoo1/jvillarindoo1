@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, Me chamo João Vilarindo!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Osvaldo&pause=1000&color=9E1ECD&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Villarindo.)](https://git.io/typing-svg)
 
 **`Estudante de Programação`**
 
