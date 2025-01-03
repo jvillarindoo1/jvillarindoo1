@@ -1,8 +1,8 @@
-# 👨‍💻 João Vilarindo
+# 👨‍💻 Olá, Me chamo João Vilarindo!
 
 **`Estudante de Programação`**
 
-Me chamo João Villarindo, tenho 20 anos e sou natural de Alagoas. Concluí o ensino médio, Atualmente, estou cursando Sistemas de Informação. Sou apaixonada por tecnologia e gostaria de compartilhar meu conhecimento aqui.
+Tenho 20 anos e sou natural de Alagoas. Concluí o ensino médio, Atualmente, estou cursando Sistemas de Informação. Sou apaixonada por tecnologia e gostaria de compartilhar meu conhecimento aqui.
 
 
 ---
