@@ -1,8 +1,10 @@
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Osvaldo&pause=1000&color=9E1ECD&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Villarindo.)](https://git.io/typing-svg)
 
 **`Estudante de Programação`**
 
-Tenho 20 anos e sou natural de Alagoas. Concluí o ensino médio, Atualmente, estou cursando Sistemas de Informação. Sou apaixonada por tecnologia e gostaria de compartilhar meu conhecimento aqui.
+Tenho 20 anos e sou natural de Alagoas. Atualmente, estou cursando o curso de Sistemas de Informação. Sou apaixonado por tecnologia, especialmente por áreas como programação, redes de computadores e desenvolvimento de sistemas. Gosto de aprender e compartilhar meu conhecimento com outras pessoas. Meu objetivo é me tornar um profissional capacitado e contribuir para a evolução tecnológica. Estou sempre em busca de novos desafios e oportunidades de crescimento.
 
 
 ---
@@ -61,7 +63,7 @@ Tenho 20 anos e sou natural de Alagoas. Concluí o ensino médio, Atualmente, es
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jvillarindoo1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
+  <a href="https://github.com/jvillarindoo1/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jvillarindoo1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
